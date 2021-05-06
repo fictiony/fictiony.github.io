@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[20],{"2dcc":function(s){s.exports=JSON.parse('{"props":{"limits":"最大最小宽度限制，格式为：\\n[ 最小宽度, 最大宽度 ]\\n单位均为像素","resizerClass":"边缘拖拽条的CSS样式 class 定义","resizerStyle":"边缘拖拽条的CSS样式 style 定义"}}')}}]);
