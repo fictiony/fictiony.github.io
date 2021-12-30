@@ -1,0 +1,27 @@
+<body style="background-color: red;">
+  <canvas
+    id="canvas"
+    width="1000"
+    height="1000"
+    style="width: 1000px; height: 1000px; image-rendering: pixelated"
+  ></canvas>
+  <script>
+    const canvas = document.getElementById('canvas')
+    const ctx = canvas.getContext('2d')
+
+    const patternCanvas = document.createElement('canvas')
+    patternCanvas.width = 2
+    patternCanvas.height = 2
+    const patternCtx = patternCanvas.getContext('2d')
+    patternCtx.fillStyle = '#0002'
+    patternCtx.fillRect(0, 0, 1, 1)
+    patternCtx.fillRect(1, 1, 1, 1)
+    patternCtx.fillStyle = '#fff5'
+    patternCtx.fillRect(0, 1, 1, 1)
+    patternCtx.fillRect(1, 0, 1, 1)
+    const pattern = ctx.createPattern(patternCanvas, 'repeat')
+
+    ctx.fillStyle = pattern
+    ctx.fillRect(0, 0, 1000, 1000)
+  </script>
+</body>
