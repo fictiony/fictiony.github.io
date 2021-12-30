@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 欢迎来到 Fictiony 的项目展厅
+## Welcome to Fictiony's Projects Showroom
 
-You can use the [editor on GitHub](https://github.com/fictiony/fictiony.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+大家好！我是 Fictiony！
+这里展示了我的一些开源项目，欢迎大家进来体验！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, everyone! I'm Fictiony!
+Here shows some of my open source projects, welcome to see!
 
-### Markdown
+### 项目清单 Project List
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Quasar Plus （Quasar 组件扩展）
+  [Demo 演示](quasar-plus) | [Github 源码](https://github.com/fictiony/quasar-plus)
 
-```markdown
-Syntax highlighted code block
+- Find Path Demo （寻路算法演示）
+  [Demo 演示](findpath) | [Github 源码](https://github.com/fictiony/find-path)
 
-# Header 1
-## Header 2
-### Header 3
+### 联系我 Contact Me
 
-- Bulleted
-- List
+大家如果有什么问题或建议，欢迎找我讨论，谢谢！
 
-1. Numbered
-2. List
+If you have any questions or suggestions, welcome to discuss with me, thank you!
 
-**Bold** and _Italic_ and `Code` text
+Email: <fictiony@qq.com>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fictiony/fictiony.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+QQ: 12501566
