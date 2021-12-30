@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[113],{f8eb:function(e){e.exports=JSON.parse('{"type":"component","meta":{"docsUrl":"https://v1.quasar.dev/vue-components/space"},"behavior":{"$listeners":{"desc":"正在传播的所有原生事件（不需要“.native”修饰符）"}}}')}}]);

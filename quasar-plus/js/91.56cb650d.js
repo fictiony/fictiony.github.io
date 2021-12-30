@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[91],{"3dc6":function(e){e.exports=JSON.parse('{"type":"component","meta":{"docsUrl":"https://v1.quasar.dev/layout/page"},"behavior":{"$listeners":{"desc":"正在传播的所有原生事件（不需要“.native”修饰符）"}},"slots":{"default":{"desc":"封装QPage（直接或通过<router view>封装）"}}}')}}]);
